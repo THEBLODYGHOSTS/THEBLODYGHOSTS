@@ -1,29 +1,18 @@
-<div align="center">
-
-<!-- ==================== MAIN BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0f0c29,70:302b63,100:00ff9d&height=230&section=header&text=%23&fontSize=130&fontColor=00ff9d&fontAlignY=36&animation=twinkling&desc=Software%20Developer%20%C2%B7%20Tool%20Builder%20%C2%B7%20Security%20Enthusiast&descAlignY=62&descSize=16" width="100%" />
-
-<!-- ==================== NEON DIVIDER ==================== -->
+<div align="center">                                                                            
+<!-- ==================== MAIN BANNER ==================== -->                                  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0f0c29,70:302b63,100:00ff9d&height=230&section=header&text=%23&fontSize=130&fontColor=00ff9d&fontAlignY=36&animation=twinkling&desc=Software%20Developer%20%C2%B7%20Tool%20Builder%20%C2%B7%20Security%20Enthusiast&descAlignY=62&descSize=16" width="100%" />
+                                                                                                <!-- ==================== NEON DIVIDER ==================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,20:00ff9d,50:7c3aed,80:00ff9d,100:050510&height=3" width="100%" />
 
 <!-- ==================== GHOST SHELL BAND ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,45:0f0c29,100:00ff9d&height=150&text=root%40ghost%3A~%23&fontSize=46&fontColor=00ff9d&fontAlignY=42&animation=twinkling&desc=access%20granted%20%C2%B7%20session%20encrypted%20%C2%B7%20welcome%20to%20the%20other%20side&descAlignY=68&descSize=13" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,45:0f0c29,100:00ff9d&height=150&text=root%40localhost%3A~%23&fontSize=46&fontColor=00ff9d&fontAlignY=42&animation=twinkling&desc=access%20granted%20%C2%B7%20session%20encrypted%20%C2%B7%20welcome%20to%20the%20other%20side&descAlignY=68&descSize=13" width="100%" />
 
 <!-- ==================== TYPING ==================== -->
 <a href="https://github.com/THEBLODYGHOSTS">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=%3E+whoami;%23+%E2%80%94+Software+Developer;I+build+tools+%2C+then+I+break+them;Python+%7C+Rust+%7C+Web+Pentest;Always+learning.+Always+shipping." alt="Typing SVG" />
-</a>
-
+</a>                                                                                            
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=THEBLODYGHOSTS&label=PROFILE+VIEWS&color=00ff9d&style=for-the-badge" alt="Profile views" />
-<a href="https://github.com/THEBLODYGHOSTS?tab=followers"><img src="https://img.shields.io/github/followers/THEBLODYGHOSTS?logo=github&style=for-the-badge&color=00ff9d&labelColor=050510&label=FOLLOWERS" alt="Followers" /></a>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9d?style=for-the-badge&labelColor=050510" alt="Status" />
-<img src="https://img.shields.io/badge/MODE-ROOT-7c3aed?style=for-the-badge&labelColor=050510" alt="Mode" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff9d,100:050510&height=2" width="85%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff9d,100:050510&height=2" width="85%" />                                                                                                                                                                          </div>
 
 ---
 
@@ -91,25 +80,6 @@ root@ghost:~# cat about.txt
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=THEBLODYGHOSTS&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEBLODYGHOSTS&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=THEBLODYGHOSTS&theme=dark&background=0d1117&border=00ff9d&stroke=00ff9d&ring=7c3aed&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=c9d1d9&dates=8b949e" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=THEBLODYGHOSTS&bg_color=0d1117&color=00ff9d&line=7c3aed&point=00ff9d&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## 🧰 Toolbox
 
 <div align="center">
@@ -134,8 +104,8 @@ root@ghost:~# cat about.txt
 <a href="https://t.me/DeadHacker_Rip"><img src="https://img.shields.io/badge/Telegram-%40DeadHacker__Rip-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff9d" /></a>
 <a href="https://github.com/THEBLODYGHOSTS"><img src="https://img.shields.io/badge/GitHub-THEBLODYGHOSTS-0d1117?style=for-the-badge&logo=github&logoColor=00ff9d" /></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff9d,50:302b63,100:050510&height=110&text=exit&fontSize=28&fontColor=050510&fontAlignY=45&desc=connection%20closed&descAlignY=70&descSize=12" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff9d,100:050510&height=2" width="85%" />
 
 </div>
