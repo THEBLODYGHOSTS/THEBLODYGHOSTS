@@ -101,7 +101,7 @@ root@ghost:~# cat about.txt
 <div align="center">
 
 <a href="mailto:thenightghost@proton.me"><img src="https://img.shields.io/badge/ProtonMail-thenightghost%40proton.me-0d1117?style=for-the-badge&logo=protonmail&logoColor=00ff9d" /></a>
-<a href="https://t.me/DeadHacker_Rip"><img src="https://img.shields.io/badge/Telegram-%40DeadHacker__Rip-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff9d" /></a>
+<a href="https://t.me/NulInetwork"><img src="https://img.shields.io/badge/Telegram-%40NulInetwork-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff9d" /></a>
 <a href="https://github.com/THEBLODYGHOSTS"><img src="https://img.shields.io/badge/GitHub-THEBLODYGHOSTS-0d1117?style=for-the-badge&logo=github&logoColor=00ff9d" /></a>
 
 <br/>
