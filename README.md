@@ -24,7 +24,7 @@ root@ghost:~# cat about.txt
   Based   : your localhost  (really — I live in the INTERNET)
   Focus   : Telegram bots · automation tools · web security
   Mail    : thenightghost@proton.me
-  Telegram: @DeadHacker_Rip
+  Telegram: @NulInetwork
   Motto   : "Build it. Break it. Understand it. Rebuild it better."
 ```
 
