@@ -17,7 +17,7 @@
 ---
 
 ```bash
-root@ghost:~# cat about.txt
+root@localhost:~# cat about.txt
 
   Name    : #
   Role    : Software Developer
