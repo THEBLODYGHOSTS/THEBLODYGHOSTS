@@ -1,11 +1,17 @@
 <div align="center">
 
-<!-- ==================== BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0f0c29,70:302b63,100:00ff9d&height=220&section=header&text=#&fontSize=90&fontColor=00ff9d&fontAlignY=38&animation=twinkling&desc=Software%20Developer%20%C2%B7%20Tool%20Builder%20%C2%B7%20Security%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
+<!-- ==================== MAIN BANNER ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0f0c29,70:302b63,100:00ff9d&height=230&section=header&text=%23&fontSize=130&fontColor=00ff9d&fontAlignY=36&animation=twinkling&desc=Software%20Developer%20%C2%B7%20Tool%20Builder%20%C2%B7%20Security%20Enthusiast&descAlignY=62&descSize=16" width="100%" />
+
+<!-- ==================== NEON DIVIDER ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,20:00ff9d,50:7c3aed,80:00ff9d,100:050510&height=3" width="100%" />
+
+<!-- ==================== GHOST SHELL BAND ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,45:0f0c29,100:00ff9d&height=150&text=root%40ghost%3A~%23&fontSize=46&fontColor=00ff9d&fontAlignY=42&animation=twinkling&desc=access%20granted%20%C2%B7%20session%20encrypted%20%C2%B7%20welcome%20to%20the%20other%20side&descAlignY=68&descSize=13" width="100%" />
 
 <!-- ==================== TYPING ==================== -->
 <a href="https://github.com/THEBLODYGHOSTS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=%3E+whoami;#+%E2%80%94+Software+Developer;I+build+tools+%2C+then+I+break+them;Python+%7C+Rust+%7C+Web+Pentest;Always+learning.+Always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=%3E+whoami;%23+%E2%80%94+Software+Developer;I+build+tools+%2C+then+I+break+them;Python+%7C+Rust+%7C+Web+Pentest;Always+learning.+Always+shipping." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,20 +19,23 @@
 <img src="https://komarev.com/ghpvc/?username=THEBLODYGHOSTS&label=PROFILE+VIEWS&color=00ff9d&style=for-the-badge" alt="Profile views" />
 <a href="https://github.com/THEBLODYGHOSTS?tab=followers"><img src="https://img.shields.io/github/followers/THEBLODYGHOSTS?logo=github&style=for-the-badge&color=00ff9d&labelColor=050510&label=FOLLOWERS" alt="Followers" /></a>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9d?style=for-the-badge&labelColor=050510" alt="Status" />
+<img src="https://img.shields.io/badge/MODE-ROOT-7c3aed?style=for-the-badge&labelColor=050510" alt="Mode" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff9d,100:050510&height=2" width="85%" />
 
 </div>
 
 ---
 
 ```bash
-ghost@localhost:~$ cat about.txt
+root@ghost:~# cat about.txt
 
   Name    : #
   Role    : Software Developer
   Based   : your localhost  (really — I live in the INTERNET)
   Focus   : Telegram bots · automation tools · web security
   Mail    : thenightghost@proton.me
-  Telegram: @NulInetwork
+  Telegram: @DeadHacker_Rip
   Motto   : "Build it. Break it. Understand it. Rebuild it better."
 ```
 
@@ -127,6 +136,6 @@ ghost@localhost:~$ cat about.txt
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:302b63,100:050510&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff9d,50:302b63,100:050510&height=110&text=exit&fontSize=28&fontColor=050510&fontAlignY=45&desc=connection%20closed&descAlignY=70&descSize=12" width="100%" />
 
 </div>
