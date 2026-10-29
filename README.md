@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ==================== BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0f0c29,70:302b63,100:00ff9d&height=220&section=header&text=GHOST&fontSize=90&fontColor=00ff9d&fontAlignY=38&animation=twinkling&desc=Software%20Developer%20%C2%B7%20Tool%20Builder%20%C2%B7%20Security%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0f0c29,70:302b63,100:00ff9d&height=220&section=header&text=#&fontSize=90&fontColor=00ff9d&fontAlignY=38&animation=twinkling&desc=Software%20Developer%20%C2%B7%20Tool%20Builder%20%C2%B7%20Security%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
 
 <!-- ==================== TYPING ==================== -->
 <a href="https://github.com/THEBLODYGHOSTS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=%3E+whoami;GHOST+%E2%80%94+Software+Developer;I+build+tools+%2C+then+I+break+them;Python+%7C+Rust+%7C+Web+Pentest;Always+learning.+Always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=%3E+whoami;#+%E2%80%94+Software+Developer;I+build+tools+%2C+then+I+break+them;Python+%7C+Rust+%7C+Web+Pentest;Always+learning.+Always+shipping." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,12 +21,12 @@
 ```bash
 ghost@localhost:~$ cat about.txt
 
-  Name    : GHOST
+  Name    : #
   Role    : Software Developer
   Based   : your localhost  (really — I live in the INTERNET)
   Focus   : Telegram bots · automation tools · web security
   Mail    : thenightghost@proton.me
-  Telegram: @DeadHacker_Rip
+  Telegram: @NulInetwork
   Motto   : "Build it. Break it. Understand it. Rebuild it better."
 ```
 
